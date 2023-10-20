@@ -1,0 +1,19 @@
+body {
+margin: 0;
+font-family: verdana, arial, helvetica, sans-serif;
+font-size: 12px;
+}
+a{
+background-color: #6d91af;
+margin-bottom: 1px;
+width: 200px;
+text-decoration: none;
+color: #fff;
+padding: 5px;
+display:block;
+}
+a:link {font-weight: bold}
+a:hover {
+background-color: #fffc00;
+color: #6D91AF !important;
+}
